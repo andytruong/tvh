@@ -1,0 +1,8 @@
+name = Migrate VnThuQuan
+version = 7.x-1.0-dev
+core = 7.x
+description = Migration content from VnThuQuan.net
+
+dependencies[] = composer_manager
+dependencies[] = migrate
+dependencies[] = xautoload

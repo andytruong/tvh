@@ -1,0 +1,11 @@
+{
+    "require": {
+        "fabpot/goutte": "~2.0",
+        "symfony/var-dumper": "~2.6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Drupal\\vina_migrate\\": "../vina_migrate/src"
+        }
+    }
+}
